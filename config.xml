@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20230"
         version   = "3.4.2">
-    <name>Larifari</name>
+    <name>Lang Akademie</name>
 
     <description>
-        Larifarie Description
+        Lang Akademie
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
